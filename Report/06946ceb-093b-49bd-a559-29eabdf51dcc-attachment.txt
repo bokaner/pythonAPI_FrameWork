@@ -1,0 +1,3 @@
+INFO     root:loginPage.py:20 Status code is 200
+INFO     root:loginPage.py:25 correct Status code is 200 
+INFO     root:loginPage.py:31 Token is present
