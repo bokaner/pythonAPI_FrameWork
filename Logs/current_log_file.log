@@ -1,0 +1,3 @@
+29/07/2024 06:38:40 PM: INFO: loginPage: check_login_api_with_correct_credentials: Status code is 200
+29/07/2024 06:38:40 PM: INFO: loginPage: check_login_api_with_correct_credentials: correct Status code is 200 
+29/07/2024 06:38:40 PM: INFO: loginPage: check_login_api_with_correct_credentials: Token is present 
